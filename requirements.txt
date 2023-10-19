@@ -1,1 +1,1 @@
-myqlm
+myqlm==1.9.4
