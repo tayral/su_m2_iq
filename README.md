@@ -8,7 +8,7 @@ You can either use myBinder to run the notebook (recommended for today's tutoria
 
 ... or Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tayral/su_m2_iq/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tayral/su_m2_iq/)
 
 ... or you need to have myqlm installed on your computer (to continue at home):
 
